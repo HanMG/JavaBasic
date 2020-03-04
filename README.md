@@ -16,6 +16,7 @@ java.exe - JVM 구동 명령 / javac.exe - 컴파일러
 #### @ 실행구조 
 
 ![process](https://user-images.githubusercontent.com/22463540/75843331-3e8de700-5e16-11ea-945d-4e24cd8b9971.png)
+(출처 : inflearn JavaProgramming Basic Course (renew ver.) )
 
 #### @가비지 컬렉터 - 프로그램 실행에 필요한 메모리를 자바는 Garbage collector가 알아서 관리해줌
 
