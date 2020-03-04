@@ -7,6 +7,10 @@ Inflearn - JavaProgramming Basic Course (renew ver.) 무료기념 호다닥 복�
 
 [2강 - 환경변수 설정, 자바 프로그램의 실행 구조, Garbage collector](#2강---환경변수-설정-자바-프로그램의-실행-구조-garbage-collector)
 
+[3강 - 변수](#3강---변수)
+
+[4강 - 기본자료형(Primitive Type)](#4강---기본자료형(primitive-type)) 
+
 [5강 - 특수문자와 서식](#5강---특수문자와-서식)
 
 1강 - JDK, Eclipse 설치, Hello JAVA World Project 생성
