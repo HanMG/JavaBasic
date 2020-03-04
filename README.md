@@ -3,11 +3,11 @@ Inflearn - JavaProgramming Basic Course (renew ver.) 무료기념 호다닥 복�
 
 목차 
 
-[1강 - 자바 공부를 위한 준비, Hello World](1강---JDK,-Eclipse-설치,-Hello-JAVA-World-Project-생성)
+[1강 - 자바 공부를 위한 준비, Hello World](#1강---JDK,-Eclipse-설치,-Hello-JAVA-World-Project-생성)
 
-[2강 - 환경변수 설정, 자바 프로그램의 실행 구조, Garbage collector](2강---환경변수-설정,-자바-프로그램의-실행-구조,-Garbage-collector)
+[2강 - 환경변수 설정, 자바 프로그램의 실행 구조, Garbage collector](#2강---환경변수-설정,-자바-프로그램의-실행-구조,-Garbage-collector)
 
-[5강 - 특수문자와 서식](5강---특수문자와-서식)
+[5강 - 특수문자와 서식](#5강---특수문자와-서식)
 
 ##1강 - JDK, Eclipse 설치, Hello JAVA World Project 생성
 -----------------
