@@ -3,6 +3,8 @@ Inflearn - JavaProgramming Basic Course (renew ver.) 무료기념 호다닥 복�
 
 1강 - 자바에 대한 간략소개와 JDK, Eclipse 설치, Hello JAVA World Project 생성
 -----------------
+[Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
+[Eclipse Download](https://www.eclipse.org/downloads/packages/)
 ![HelloJava](https://user-images.githubusercontent.com/22463540/75841901-3a5fca80-5e12-11ea-9515-038bfe8172bb.png)
 
 2강 - 환경변수 설정, 자바 프로그램의 실행 구조, Garbage collector
