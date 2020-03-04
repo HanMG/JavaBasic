@@ -9,7 +9,7 @@ Inflearn - JavaProgramming Basic Course (renew ver.) 무료기념 호다닥 복�
 
 [5강 - 특수문자와 서식](#5강---특수문자와-서식)
 
-##1강 - JDK, Eclipse 설치, Hello JAVA World Project 생성
+1강 - JDK, Eclipse 설치, Hello JAVA World Project 생성
 -----------------
 
 [Oracle JDK](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
