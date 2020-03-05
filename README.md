@@ -20,6 +20,8 @@ Inflearn - JavaProgramming Basic Course (renew ver.) 무료기념 호다닥 복�
 
 [8강 - 배열과 메모리](#8강---배열과-메모리)
 
+[9강 - 조건문](#9강---조건문)
+
 
 1강 - JDK, Eclipse 설치, Hello JAVA World Project 생성
 -----------------
@@ -293,3 +295,52 @@ System.out.println("arrAtt3 : " + arrAtt3);	// 배열의 데이터는 arrAtt1과
 // 다차원 배열
 int[][] arrMul = new int[3][2];
 ```````````````
+
+9강 - 조건문
+-----------
+
+9-1 조건문이란?
+`````
+조건의 결과에 따라서 양자 택일( 주로 if문 ) 또는 다자 택일( 주로 switch문 )을 진행한다.
+`````
+9-2 if문
+`````java
+// if (조건식)
+int num1 = 10;
+int num2 = 20;
+			
+if(num1 < num2) {
+	System.out.println("num1는 num2보다 작다.");
+}else if(num1 > num2) {
+	System.out.println("num1는 num2보다 크다.");
+}else if(num1 == num2) {
+	System.out.println("num1과 num2는 같다.");
+}else{
+	System.out.println("num1과 num2는 크지도 작지도 같지도 않다.");
+}
+`````
+9-3 switch문
+`````java
+//switch문
+System.out.print("점수를 입력하세요 :  ");
+Scanner scan  =  new Scanner(System.in);
+int score = scan.nextInt();
+			
+switch (score) {
+case 100:
+case 90:
+	System.out.println("수");
+	break;
+case 80:
+	System.out.println("우");
+	break;
+case 70:
+	System.out.println("미");
+	break;
+default:
+	System.out.println("재시험!");
+	break;
+}
+			
+scan.close(); // 자원 반납
+`````
